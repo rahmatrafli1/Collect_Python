@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    N = int(input())
+    N = int(input("Input your range: "))
     Output = [];
     for i in range (0,N):
         ip = input().split()
